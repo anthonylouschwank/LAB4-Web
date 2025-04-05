@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env
+
+# Prisma
+prisma/.env
+.prisma/
+
+# Build outputs
+dist/
+build/
+
+# Cache
+.cache/
+.next/
+.vite/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Mac/Linux swap files
+*.swp
+
+# Optional: Ignore SQLite or local DBs
+*.sqlite
+*.db
